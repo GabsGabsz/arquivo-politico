@@ -1,0 +1,131 @@
+{
+  "candidates": [
+    {
+      "id": "lula",
+      "name": "Luiz Inácio Lula da Silva",
+      "short": "Lula",
+      "party": "PT",
+      "number": "13",
+      "desc": "Metalúrgico, líder sindical e ex-deputado constituinte. Disputou a Presidência pelo PT.",
+      "facts": [
+        "Presidiu o Sindicato dos Metalúrgicos de São Bernardo do Campo e Diadema, com mandatos iniciados em 1975 e 1978.",
+        "Exerceu mandato de deputado federal constituinte entre 1987 e 1991.",
+        "Venceu a eleição presidencial de 2002, no segundo turno contra José Serra."
+      ],
+      "source": "https://www.camara.leg.br/deputados/139289/biografia",
+      "label": "Câmara dos Deputados · biografia e mandatos"
+    },
+    {
+      "id": "serra",
+      "name": "José Serra",
+      "short": "José Serra",
+      "party": "PSDB",
+      "number": "45",
+      "desc": "Economista, senador e ex-ministro da Saúde e do Planejamento. Foi o candidato do PSDB.",
+      "facts": [
+        "Foi deputado federal constituinte e senador por São Paulo.",
+        "Ocupou o Ministério do Planejamento entre 1995 e 1996 e o Ministério da Saúde entre 1998 e 2002.",
+        "Disputou o segundo turno de 2002 contra Lula."
+      ],
+      "source": "https://www.camara.leg.br/deputados/65495/biografia",
+      "label": "Câmara dos Deputados · biografia e cargos públicos"
+    },
+    {
+      "id": "garotinho",
+      "name": "Anthony Garotinho",
+      "short": "Anthony Garotinho",
+      "party": "PSB",
+      "number": "40",
+      "desc": "Radialista, ex-prefeito de Campos dos Goytacazes e ex-governador do Rio de Janeiro. Concorreu pelo PSB.",
+      "facts": [
+        "Foi prefeito de Campos dos Goytacazes nos períodos de 1989–1992 e 1997–1998.",
+        "Governou o estado do Rio de Janeiro entre 1999 e 2002.",
+        "Participou da disputa presidencial de 2002 pelo PSB, com o número 40."
+      ],
+      "source": "https://www.camara.leg.br/noticias/367133-anthony-garotinho-e-o-novo-presidente-da-comissao-de-legislacao-participativa",
+      "label": "Câmara dos Deputados · trajetória política"
+    },
+    {
+      "id": "ciro",
+      "name": "Ciro Gomes",
+      "short": "Ciro Gomes",
+      "party": "PPS",
+      "number": "23",
+      "desc": "Ex-prefeito de Fortaleza, ex-governador do Ceará e ex-ministro da Fazenda. Disputou a eleição pelo PPS.",
+      "facts": [
+        "Foi prefeito de Fortaleza e governador do Ceará.",
+        "Ocupou o Ministério da Fazenda em 1994, no governo Itamar Franco.",
+        "Participou da eleição presidencial de 2002 pelo PPS, com o número 23."
+      ],
+      "source": "https://www.camara.leg.br/deputados/141406/biografia",
+      "label": "Câmara dos Deputados · biografia e cargos públicos"
+    },
+    {
+      "id": "ze-maria",
+      "name": "José Maria de Almeida",
+      "short": "Zé Maria",
+      "party": "PSTU",
+      "number": "16",
+      "desc": "Metalúrgico e dirigente do PSTU, com trajetória no movimento sindical. Foi candidato pelo partido.",
+      "facts": [
+        "Conhecido politicamente como Zé Maria.",
+        "Atuou no movimento sindical metalúrgico e na direção do PSTU.",
+        "Concorreu à Presidência em 2002 pelo PSTU, com o número 16."
+      ],
+      "source": "https://www.pstu.org.br/a-trajetoria-de-luta-de-jose-maria-de-almeida/",
+      "label": "PSTU · biografia partidária de 2002 (fonte do próprio partido)"
+    },
+    {
+      "id": "rui",
+      "name": "Rui Costa Pimenta",
+      "short": "Rui Costa Pimenta",
+      "party": "PCO",
+      "number": "29",
+      "desc": "Jornalista e dirigente do Partido da Causa Operária. Concorreu à Presidência pelo PCO.",
+      "facts": [
+        "Jornalista e dirigente do Partido da Causa Operária.",
+        "Seu registro como candidato à Presidência foi noticiado em julho de 2002.",
+        "Disputou a eleição de 2002 pelo PCO, com o número 29."
+      ],
+      "source": "https://www1.folha.uol.com.br/folha/brasil/ult96u34309.shtml",
+      "label": "Folha Online · registro da candidatura, 5 de julho de 2002"
+    }
+  ],
+  "photoCredits": {
+    "lula": {
+      "credit": "Câmara dos Deputados · acervo biográfico",
+      "year": "Data não informada no acervo",
+      "url": "https://www.camara.leg.br/deputados/139289/biografia"
+    },
+    "serra": {
+      "credit": "Câmara dos Deputados · acervo biográfico",
+      "year": "Data não informada no acervo",
+      "url": "https://www.camara.leg.br/deputados/65495/biografia"
+    },
+    "ciro": {
+      "credit": "Câmara dos Deputados · acervo biográfico",
+      "year": "Data não informada no acervo",
+      "url": "https://www.camara.leg.br/deputados/141406/biografia"
+    },
+    "garotinho": {
+      "credit": "Câmara dos Deputados · acervo biográfico",
+      "year": "Data não informada no acervo",
+      "url": "https://www.camara.leg.br/deputados/160539/biografia"
+    },
+    "ze-maria": {
+      "credit": "Rede Brasil Atual · 2010",
+      "year": "Fotografia de 2010",
+      "url": "https://www.flickr.com/photos/redebrasilatual/4790595816/",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/"
+    },
+    "rui": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Rui_Costa_Pimenta_PCO_ABr_%28cropped%29.jpg",
+      "credit": "Valter Campanato / Agência Brasil · 2014",
+      "year": "Fotografia de 25 de setembro de 2014",
+      "url": "https://commons.wikimedia.org/wiki/File:Rui_Costa_Pimenta_PCO_ABr.jpg",
+      "license": "CC BY 3.0 BR",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/br/"
+    }
+  }
+}
